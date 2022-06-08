@@ -1,5 +1,6 @@
 # Netflix movie page
  a responsive landing page of a netflix movie
+ ====================================================
  "play" and "add to list" buttons are added to page
  a random trailer is added. user can watch trailer by clicking "watch trailer"
  i learned making blur background with this project.
